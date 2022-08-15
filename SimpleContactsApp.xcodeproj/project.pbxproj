@@ -17,6 +17,7 @@
 		0426148328A964AC0016F473 /* EachContactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0426148228A964AC0016F473 /* EachContactView.swift */; };
 		0426148628A967F80016F473 /* ContactModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0426148528A967F80016F473 /* ContactModel.swift */; };
 		0426148B28A96D080016F473 /* ContactsListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0426148A28A96D080016F473 /* ContactsListViewModel.swift */; };
+		04F63E8528A99288004ABBEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04F63E8428A99288004ABBEC /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		0426148228A964AC0016F473 /* EachContactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EachContactView.swift; sourceTree = "<group>"; };
 		0426148528A967F80016F473 /* ContactModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactModel.swift; sourceTree = "<group>"; };
 		0426148A28A96D080016F473 /* ContactsListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsListViewModel.swift; sourceTree = "<group>"; };
+		04F63E8428A99288004ABBEC /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 				041627B528A6D91E0093A212 /* ContactsListView.swift */,
 				0426148028A8EB1A0016F473 /* AddContactView.swift */,
 				0426148228A964AC0016F473 /* EachContactView.swift */,
+				04F63E8428A99288004ABBEC /* LaunchScreen.storyboard */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04F63E8528A99288004ABBEC /* LaunchScreen.storyboard in Resources */,
 				0416279128A6D45A0093A212 /* Preview Assets.xcassets in Resources */,
 				0416278E28A6D45A0093A212 /* Assets.xcassets in Resources */,
 			);

@@ -16,6 +16,7 @@ struct SimpleContactsAppApp: App {
     var body: some Scene {
         WindowGroup {
             ContactsListView()
+                .navigationViewStyle(StackNavigationViewStyle())
                 .environmentObject(contactsListViewModel)
         }
         
